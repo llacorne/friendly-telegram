@@ -1,0 +1,13 @@
+{
+  "name": "test-rft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.2",
+    "react": "^16.9.0",
+    "react-flip-toolkit": "^7.0.4"
+  }
+}
